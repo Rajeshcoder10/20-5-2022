@@ -1,0 +1,9 @@
+
+b=int(input())
+c=int(input())
+
+print(c&b)
+print(c|b)
+print(c^b)
+print(c&1)
+print(b&1)
